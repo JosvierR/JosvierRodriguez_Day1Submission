@@ -1,0 +1,2 @@
+2025 Toyota Camry | Doors: 4
+2026 Tesla Semi | Battery: 500.0 kWh | Payload: 36000.0 kg
