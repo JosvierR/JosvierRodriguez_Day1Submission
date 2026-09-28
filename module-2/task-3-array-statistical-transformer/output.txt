@@ -1,0 +1,4 @@
+Scores: [85.0, 90.0, 72.0, 88.0, 95.0, 76.0]
+Mean: 84.33
+Median: 86.50
+Standard Deviation: 7.97
