@@ -1,0 +1,3 @@
+Email sent to John: Your order is ready!
+SMS sent to John: Your order is ready!
+Push sent to John: Your order is ready!

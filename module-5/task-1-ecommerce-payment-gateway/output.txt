@@ -1,0 +1,3 @@
+LOG: Credit Card payment: $103.0
+Payment successful: true
+LOG: Credit Card refund: $50.0
