@@ -1,0 +1,3 @@
+racecar -> true
+A man, a plan, a canal: Dominican Republic -> false
+hello -> false
