@@ -1,0 +1,5 @@
+Deposit successful: $500.0
+Withdrawal successful: $200.0
+Balance: $1300.0
+Bank: TechBank International
+Accounts created: 1
